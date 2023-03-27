@@ -1,4 +1,5 @@
 # CNN-covid
+
 COC891 - Deep Learning
 
 Prof. Alexandre Gonçalves Evsukoff
@@ -16,3 +17,7 @@ Tema do trabalho final: Classificação de Imagens de Raio-X de Torax para Ident
 Relatório Final: CLASSIFICACAO_DE_IMAGENS_DE_RAIO_X_DE_TORAX_COVID-19.pdf
 
 Autores: Eric Kauati Saito e Paula Brandão Furlan 
+
+Bibliotecas Utilizadas:
+- numpy
+- tensorflow
